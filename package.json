@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Meu primeiro aplicativo web com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriela-mattoss/Nodejs.git"
+  },
+  "author": "Gabriela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriela-mattoss/Nodejs/issues"
+  },
+  "homepage": "https://github.com/gabriela-mattoss/Nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
